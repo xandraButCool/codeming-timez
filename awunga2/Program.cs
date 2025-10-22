@@ -6,12 +6,36 @@ class Program
 {
     static void Main(string[] args)
     {
+        //have the user select a program from the learing programs, then run that program with a switch case
+        Console.WriteLine("chose a program to run (1-3)");
+        int userProgram = Convert.ToInt32(Console.ReadLine());
+        switch (userProgram)
+        {
+            case 1:
+                HelloWorld();
+                break;
+
+            case 2:
+                ImterActivites();
+                break;
+
+            case 3:
+                 IfElseTest();
+                 break;
+        }
+    }
+    
+    static void HelloWorld();
+    {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("gosh didily garn, Im coding in c#!");
         //This is my coment!
         /*This is my long comment
         see?*/
+    }
 
+    static void ImterActivities();
+    {
         //declare a const and tells the user the value
         const int imtergerz1 = 2;
         Console.Write("the fist number is:");
@@ -42,8 +66,10 @@ class Program
         sumOfImterz += userImt;
         Console.Write("your new sum is:");
         Console.WriteLine(sumOfImterz);
+    }
 
-        Console.WriteLine("lets try something new. pick a number");
+    static void IfElseTest();
+    {
         int userNum = Convert.ToInt32(Console.ReadLine());
         if (userNum > 5)
         {
