@@ -21,3 +21,10 @@
 /Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/obj/Debug/net9.0/awunga2.dll
 /Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/obj/Debug/net9.0/refint/awunga2.dll
 /Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/obj/Debug/net9.0/awunga2.pdb
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/bin/Debug/net9.0/awunga2
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/bin/Debug/net9.0/awunga2.deps.json
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/bin/Debug/net9.0/awunga2.runtimeconfig.json
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/bin/Debug/net9.0/awunga2.dll
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/bin/Debug/net9.0/awunga2.pdb
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/obj/Debug/net9.0/awunga2.genruntimeconfig.cache
+/Users/alexbrown/Desktop/CS Repos/awunga2project/awunga2/obj/Debug/net9.0/ref/awunga2.dll
