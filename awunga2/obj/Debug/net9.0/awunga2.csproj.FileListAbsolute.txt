@@ -12,3 +12,4 @@
 /Users/alexbrown/Desktop/codeming timez/awunga2/obj/Debug/net9.0/awunga2.pdb
 /Users/alexbrown/Desktop/codeming timez/awunga2/obj/Debug/net9.0/awunga2.genruntimeconfig.cache
 /Users/alexbrown/Desktop/codeming timez/awunga2/obj/Debug/net9.0/ref/awunga2.dll
+/Users/alexbrown/Desktop/codeming timez/awunga2/obj/Debug/net9.0/awunga2.sourcelink.json

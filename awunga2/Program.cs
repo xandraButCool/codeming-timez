@@ -32,8 +32,15 @@ class Program
         const int imtergerz3 = 3;
         Console.Write("if we add a third number that is:");
         Console.WriteLine(imtergerz3);
-        sumOfImterz = sumOfImterz + imtergerz3;
+        sumOfImterz += imtergerz3;
         Console.Write("the sum becomes:");
+        Console.WriteLine(sumOfImterz);
+
+        //what if the user wants to add a number?
+        Console.WriteLine("now you enter a number:");
+        int userImt = Convert.ToInt32(Console.ReadLine());
+        sumOfImterz += userImt;
+        Console.Write("your new sum is:");
         Console.WriteLine(sumOfImterz);
     }
 }
