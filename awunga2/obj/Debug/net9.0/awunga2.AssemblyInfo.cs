@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("awunga2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40f3712d3a1ece8277950b6d1ee87f4bf7b61e7a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad8c13e816bdb3fb0f2b69be119dfb08cd14e34")]
 [assembly: System.Reflection.AssemblyProductAttribute("awunga2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("awunga2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

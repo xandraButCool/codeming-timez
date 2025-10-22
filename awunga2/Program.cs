@@ -42,5 +42,16 @@ class Program
         sumOfImterz += userImt;
         Console.Write("your new sum is:");
         Console.WriteLine(sumOfImterz);
+
+        Console.WriteLine("lets try something new. pick a number");
+        int userNum = Convert.ToInt32(Console.ReadLine());
+        if (userNum > 5)
+        {
+            Console.WriteLine("your number is greater than 5");
+        }
+        else
+        {
+            Console.WriteLine("your number is not greater than 5 ");
+        }
     }
 }
