@@ -76,7 +76,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("your number is not greater than 5 ");
+            Console.WriteLine("your number is not greater than 5");
         }
     }
 }
